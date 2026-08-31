@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "notes": "El espejo tiene icono propio. La duracion del resultado -cuanto queda la foto en pantalla antes del siguiente invitado- se configura desde Evento, de 3 a 20 segundos; antes era fija en 12 con el QR encendido. Y la pantalla del invitado quedo mucho mas liviana: la barra del resultado reconstruia toda la ventana diez veces por segundo, ahora corre sola. Se nota sobre todo en notebooks.",
-  "url": "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.2.0/espejo-magico-1.2.0-setup.exe",
-  "sha256": "085bea5f26e8ab5b4642804c40e2e1f459366bb956c88282c96916ac621b2438",
-  "size": 14029731
+  "version": "1.2.1",
+  "notes": "OJO: esta hay que instalarla A MANO una sola vez. El boton de actualizar de la version que tenes puesta esta roto (cierra el espejo y no lo vuelve a abrir), asi que bajate el instalador de github.com/lovera2025/magic-booth-releases/releases/latest y ejecutalo. Si ya te paso, no se perdio nada: abri el espejo desde el acceso directo de siempre. De 1.2.1 en adelante la actualizacion automatica funciona sola. Ademas trae icono propio y la duracion del resultado configurable desde Evento.",
+  "url": "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.2.1/espejo-magico-1.2.1-setup.exe",
+  "sha256": "c5b271657ef0d6bd26cd079f193f9e5d5aac73e8792cf9f98abc8432cc43bf1d",
+  "size": 14036747
 }
