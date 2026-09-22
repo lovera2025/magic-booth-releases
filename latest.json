@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "notes": "Arreglo importante: cerrar la ventana del invitado con la X ya no cierra todo el programa: ahora la esconde y vuelve con «Abrir pantalla del invitado». El marco siempre ocupa toda la foto, aunque sea un diseño cargado como un mosaico; uno que ya quedó chico se arregla con «Adaptar a la foto». Si venís de la 1.2.1, también trae: textos que se leen sobre cualquier marco, publicidad propia (pestaña Redes), fotos al celular sin internet con dos QR, video de publicidad, copiar fotos a un pendrive y la pantalla que no se apaga durante el evento. Tus eventos y fotos no se tocan.",
-  "url": "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.3.3/espejo-magico-1.3.3-setup.exe",
-  "sha256": "7ac6e734143a4332b83be0ec940d529f5a9b6bd0775138ca046df518ca5c6881",
-  "size": 14347164
+  "version": "1.3.5",
+  "notes": "Si «Mostrar el espejo acá» te tapa la pantalla, ahora salís con Esc, moviendo el mouse («Salir de pantalla completa») o con Alt+F4. Nueva sección «Versión» en la barra: qué versión usás y buscar o instalar la actualización cuando quieras («Ahora no» ya no la pierde). Celular: completa el nombre del Wi-Fi de la PC y avisa si no coincide. Si la tele está colgada de costado, el programa gira la imagen (Evento → Monitores). Si venís de antes: la X del invitado ya no cierra todo, el marco ocupa toda la foto y las fotos van al celular sin internet. Tus eventos y fotos no se tocan.",
+  "url": "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.3.5/espejo-magico-1.3.5-setup.exe",
+  "sha256": "360ad797c1b9d43a0dd84b4ca0897aa67dcbf10f9becbf28e988ee8aae050d8c",
+  "size": 14360439
 }
