@@ -1,0 +1,2 @@
+Instaladores alojados aqui para quien no puede bajarlos de github.com.
+No es la pagina de versiones: ver la rama main y las releases.
