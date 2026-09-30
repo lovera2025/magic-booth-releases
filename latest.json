@@ -1,7 +1,7 @@
 {
   "version": "1.4.1",
   "notes": "Nuevo: tutorial guiado de la consola (Siguiente / Saltar): se abre solo la primera vez y se repite desde Versión. La actualización ahora dice por qué falla, no se cierra si no pudo arrancar, reabre el programa instalado y vuelve con prioridad normal; en Versión podés bajar el instalador a mano, abrir los registros y copiar un informe. Incluye lo de la 1.4.0: pestaña Diseño con la cámara en vivo («Que entre toda la gente», zoom y espejo), QR más grandes con sus contadores, impresión con calidades Rápida, Normal y Alta y sin bordes, y la página del celular con tus redes primero. Tus eventos y fotos no se tocan.",
-  "url": "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.4.1/espejo-magico-1.4.1-setup.exe",
+  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.4.1-setup.exe",
   "sha256": "a11cb106cf811b1afca6e43438c89c615f86362d6290a2803d15d7a06343ff40",
   "size": 14491336
 }
