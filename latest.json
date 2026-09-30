@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "notes": "Nueva pestaña Diseño (reemplaza a Marco y Frases): movés la cámara, el título, las frases, la publicidad y los QR viendo la pantalla del invitado en vivo, y elegís la forma de la foto (como la pantalla o como el papel) y un borde para el recuadro. La cámara entra entera («Que entre toda la gente»), con zoom y espejo a elección. QR más grandes, con el tiempo que le queda al QR y cuánto falta para la foto impresa. Impresión con calidades Rápida, Normal y Alta y su tiempo, que podés cambiar en plena fiesta, y sin bordes. La página del celular muestra primero tus redes y «Descargar foto». Textos más cortos. Tus eventos y fotos no se tocan.",
-  "url": "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.4.0/espejo-magico-1.4.0-setup.exe",
-  "sha256": "c51f90fb3c44cd1e3fd817bb2c75b9d48675eb84f2819981144591b8da462840",
-  "size": 14468036
+  "version": "1.4.1",
+  "notes": "Nuevo: tutorial guiado de la consola (Siguiente / Saltar): se abre solo la primera vez y se repite desde Versión. La actualización ahora dice por qué falla, no se cierra si no pudo arrancar, reabre el programa instalado y vuelve con prioridad normal; en Versión podés bajar el instalador a mano, abrir los registros y copiar un informe. Incluye lo de la 1.4.0: pestaña Diseño con la cámara en vivo («Que entre toda la gente», zoom y espejo), QR más grandes con sus contadores, impresión con calidades Rápida, Normal y Alta y sin bordes, y la página del celular con tus redes primero. Tus eventos y fotos no se tocan.",
+  "url": "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.4.1/espejo-magico-1.4.1-setup.exe",
+  "sha256": "a11cb106cf811b1afca6e43438c89c615f86362d6290a2803d15d7a06343ff40",
+  "size": 14491336
 }
