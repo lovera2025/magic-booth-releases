@@ -1,7 +1,10 @@
 {
-  "version": "1.4.1",
-  "notes": "Nuevo: tutorial guiado de la consola (Siguiente / Saltar): se abre solo la primera vez y se repite desde Versión. La actualización ahora dice por qué falla, no se cierra si no pudo arrancar, reabre el programa instalado y vuelve con prioridad normal; en Versión podés bajar el instalador a mano, abrir los registros y copiar un informe. Incluye lo de la 1.4.0: pestaña Diseño con la cámara en vivo («Que entre toda la gente», zoom y espejo), QR más grandes con sus contadores, impresión con calidades Rápida, Normal y Alta y sin bordes, y la página del celular con tus redes primero. Tus eventos y fotos no se tocan.",
-  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.4.1-setup.exe",
-  "sha256": "a11cb106cf811b1afca6e43438c89c615f86362d6290a2803d15d7a06343ff40",
-  "size": 14491336
+  "version": "1.4.3",
+  "notes": "Nuevo: en Impresión elegís cómo sale la hoja, con «Borde finito» o «Hoja llena», y el programa te dice cómo sale de verdad en tu impresora. La foto toma sola la forma del papel (sin franjas a los costados) y una calidad que no anda ya no deja la hoja en blanco. Hoja de ajuste y «Copiar los datos de la impresora» para medir. En Diseño: un interruptor para ocultar cada cartel de la tele, QR dentro de la foto, cuánto se ve el QR (hasta 60 s), recuadro de la cámara más fácil de agrandar y «¿Qué querés hacer?», que te lleva a cada cosa. Si la descarga de una actualización falla, prueba otro servidor. Tus eventos y fotos no se tocan.",
+  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.4.3-setup.exe",
+  "sha256": "c2db3ff688fc1019ee2c8809221bb2481593133e6bdd788769cb905260ac89e2",
+  "size": 14631359,
+  "mirrors": [
+    "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.4.3/espejo-magico-1.4.3-setup.exe"
+  ]
 }
