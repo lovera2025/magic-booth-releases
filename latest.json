@@ -1,10 +1,10 @@
 {
-  "version": "1.4.3",
-  "notes": "Nuevo: en Impresión elegís cómo sale la hoja, con «Borde finito» o «Hoja llena», y el programa te dice cómo sale de verdad en tu impresora. La foto toma sola la forma del papel (sin franjas a los costados) y una calidad que no anda ya no deja la hoja en blanco. Hoja de ajuste y «Copiar los datos de la impresora» para medir. En Diseño: un interruptor para ocultar cada cartel de la tele, QR dentro de la foto, cuánto se ve el QR (hasta 60 s), recuadro de la cámara más fácil de agrandar y «¿Qué querés hacer?», que te lleva a cada cosa. Si la descarga de una actualización falla, prueba otro servidor. Tus eventos y fotos no se tocan.",
-  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.4.3-setup.exe",
-  "sha256": "c2db3ff688fc1019ee2c8809221bb2481593133e6bdd788769cb905260ac89e2",
-  "size": 14631359,
+  "version": "1.5.0",
+  "notes": "Nuevo: un diseñador de marcos dentro del programa, sin internet. En Diseño → «La foto» → «Armá tu marco» agregás textos con 16 letras, adornos, formas e imágenes, los arrastrás, los girás y deshacés con Ctrl+Z. Trae 10 plantillas (15 años, boda, cumpleaños…), «Mis diseños» para usarlos en otro evento y «Guardar como PNG». Impresión: con el driver genérico de Windows la hoja ya no sale recortada ni con borde doble, una foto con otra forma se acomoda sola sin franjas grises y la forma del papel se pone sola. Si falta la impresora elegida, avisa y no manda las fotos a un PDF. Tus eventos y fotos no se tocan.",
+  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.5.0-setup.exe",
+  "sha256": "5624ef8fbc612d26735721bcc7b7d8b8bea9a206635345dc03a3aa82510a19f8",
+  "size": 15658159,
   "mirrors": [
-    "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.4.3/espejo-magico-1.4.3-setup.exe"
+    "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.5.0/espejo-magico-1.5.0-setup.exe"
   ]
 }
