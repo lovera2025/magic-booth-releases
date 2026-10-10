@@ -1,10 +1,10 @@
 {
-  "version": "1.5.1",
-  "notes": "Impresión: ahora elegís sólo entre lo que tu impresora ofrece de verdad: «Borde finito», «Borde parejo» u «Hoja llena». Con las impresoras por Wi-Fi que usan el driver de Windows, el programa pide solo el papel fotográfico y la calidad que elegiste (ya no hace falta «Ajustar…»), y si la impresora tarda en contestar no queda en blanco: recuerda lo que dijo la vez anterior. La hoja de ajuste sale una sola y dice con qué opción salió. Tus eventos y fotos no se tocan.",
-  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.5.1-setup.exe",
-  "sha256": "8b4d89b3d843e0471b2a4c23b9b03403e6d5607d34a3d59817ab60b621b57c14",
-  "size": 15686120,
+  "version": "1.5.2",
+  "notes": "Cámara: ahora podés pedirle la forma más alta (4:3), que ve más arriba y más abajo, para que la foto ocupe más hoja. Se elige en Diseño → Cámara, o tirando con el mouse de las barritas del recuadro: tapan o muestran sin acercar la imagen. El programa te dice con qué medida abrió la cámara, y si la cámara se corta la vuelve a tomar sola. Impresión: avisa si una hoja queda en la cola sin salir, y «Comparar con otro programa» manda cómo imprime otro programa de la misma PC. Tus eventos y fotos no se tocan.",
+  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.5.2-setup.exe",
+  "sha256": "485bf05ea5be51a691789465edfe9e6e6e6941c2f7867da456c0bb5c0fa322e9",
+  "size": 15702801,
   "mirrors": [
-    "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.5.1/espejo-magico-1.5.1-setup.exe"
+    "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.5.2/espejo-magico-1.5.2-setup.exe"
   ]
 }
