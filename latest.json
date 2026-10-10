@@ -1,10 +1,10 @@
 {
-  "version": "1.5.3",
-  "notes": "Nada inventado. Cámara: «Calidad de la cámara» ahora muestra las medidas que tu cámara tiene de verdad (ya no «Full HD» ni «4K») y «Automática» dice qué cámara está usando. Impresión: se muestran sólo las calidades que tu impresora ofrece; «Alta (foto)» ya no arrastra un ajuste viejo que no se veía; con «Como está en Windows» avisa que así imprime como en papel común; y «Mandar los datos» incluye qué se pidió en las últimas hojas. Tus eventos y fotos no se tocan.",
-  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.5.3-setup.exe",
-  "sha256": "f2fbf62b097bea764f6d401319fd41b8caf81e0deeef03833fe1b3bc7f074487",
-  "size": 15713164,
+  "version": "1.5.4",
+  "notes": "Después de la foto puede pasar tu video. En Diseño → «Foto lista» → «Tiempos» elegís cuántos segundos se ve la foto, cuántos el video y qué queda al terminar: vuelve la cámara, o el video sigue hasta que aprieten el botón o hasta que salga la impresa. Los QR y su contador siguen arriba del video; dónde van se elige en la vista nueva «Video». En la consola, un botón pasa el video o muestra la cámara cuando quieras. Y la publicidad (tus redes) se puede ver también «Mientras esperan». Tus eventos y fotos no se tocan.",
+  "url": "https://raw.githubusercontent.com/lovera2025/magic-booth-releases/installers/espejo-magico-1.5.4-setup.exe",
+  "sha256": "a574a3754840fca04137a581515c118767fd67b7a9e1ccc15e20137e96eedd73",
+  "size": 15717462,
   "mirrors": [
-    "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.5.3/espejo-magico-1.5.3-setup.exe"
+    "https://github.com/lovera2025/magic-booth-releases/releases/download/v1.5.4/espejo-magico-1.5.4-setup.exe"
   ]
 }
